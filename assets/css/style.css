@@ -1,0 +1,13 @@
+.butts{
+    float: left;
+    display: inline-block;
+    margin: 10px;
+}
+.gif{
+    float: left;
+    display: inline-block;
+    margin: 10px;
+}
+#submit{
+    margin: 10px;
+}
